@@ -1,21 +1,12 @@
 ### Hi there 👋
 
-<!--
-**didi955/didi955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Dylan Lannuzel, im a young Java and Python autodidact developer who takes his time in learning. Currently working for Rushcubeland which 
+is my own Minecraft network.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working for Rushcubeland
 
-## My Featured Repositories
+## My Featured Public Repositories
 
 <a href="https://github.com/didi955/ImageMaker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ImageMaker" />
@@ -31,6 +22,6 @@ Here are some ideas to get you started:
 
 ## Technologies
 
-
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="20%"/>
   <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="12%"/>
-  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="15%"/>
+  <img align="left" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo-500x313.jpg" width="15%"/>
