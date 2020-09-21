@@ -24,4 +24,4 @@ is my own Minecraft network.
   <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="15%"/>
   <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="13%"/>
   <img align="left" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo-500x313.jpg" width="27%"/>
-  <img align="left" src="https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo_blue-transparent-300x75.png.webp" width="27%" height="150%"/>
+  <img align="left" src="https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo_blue-transparent-300x200.png.webp" width="27%" height="150%"/>
