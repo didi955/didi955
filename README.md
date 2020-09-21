@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/didi955/ImageMaker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ImageMaker" />
 </a>
-<a href="https://github.com/didi955/ArbresPy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ArbresPy" />
+<a href="https://github.com/didi955/ArbrePy">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ArbrePy" />
 </a>
 
 
