@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/<didi955)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/didi955)
