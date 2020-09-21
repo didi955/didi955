@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 I am Dylan, im a young Java and Python autodidact developer who takes his time in learning. Currently working for Rushcubeland which 
 is my own Minecraft network.
