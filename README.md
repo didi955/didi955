@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Featured Repositories
+
+<a href="https://github.com/didi955/ImageMaker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ImageMaker" />
+</a>
+<a href="https://github.com/didi955/ArbresPy">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ArbresPy" />
+</a>
+
+
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/didi955)
