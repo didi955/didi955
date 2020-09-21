@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I am Dylan, im a young Java and Python autodidact developer who takes his time in learning. Currently working for Rushcubeland which 
+I am **Dylan**, im a young Java and Python autodidact developer who takes his time in learning. Currently working for **Rushcubeland** which 
 is my own Minecraft network.
 
 🔭 I’m currently working for Rushcubeland
 
-## My Featured Public Repositories
+### My Featured Public Repositories
 
 <a href="https://github.com/didi955/ImageMaker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ImageMaker" />
