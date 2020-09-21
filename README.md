@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/didi955)
+
+## Technologies
+
+
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="12%"/>
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="15%"/>
