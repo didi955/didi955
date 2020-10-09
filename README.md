@@ -7,8 +7,8 @@ is my own Minecraft network.
 
 ### My Featured Public Repositories
 
-<a href="https://github.com/didi955/ImageMaker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ImageMaker" />
+<a href="https://github.com/didi955/RcbProxy">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=RcbProxy" />
 </a>
 <a href="https://github.com/didi955/ArbrePy">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ArbrePy" />
