@@ -15,8 +15,8 @@ is my own Minecraft network.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=RcbAPI" />
 </a>
 
-<a href="https://github.com/didi955/ArbrePy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=ArbrePy" />
+<a href="https://github.com/didi955/RcbHub">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=RcbHub" />
 </a>
 
 <a href="https://github.com/didi955/Aletheia">
