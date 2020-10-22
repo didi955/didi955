@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am **Dylan**, im a young Java and Python autodidact developer who takes his time in learning. Currently working for **Rushcubeland** which 
+I am **Dylan**, im a young Java autodidact developer who takes his time in learning. Currently working for **Rushcubeland** which 
 is my own Minecraft network.
 
 🔭 I’m currently working for Rushcubeland
