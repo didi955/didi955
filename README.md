@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I am **Dylan**, im a Java autodidact developer. Currently working for **Rushcubeland** which 
-is my own Minecraft network.
+I am **Dylan**, im a autodidact developer. Ive worked for **Rushcubeland** which 
+was my own Minecraft network.
 
 🔭 I’m currently working for Rushcubeland
 
