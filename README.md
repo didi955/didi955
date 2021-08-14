@@ -7,10 +7,6 @@ was my own Minecraft network.
 
 ### My Featured Public Repositories
 
-<a href="https://github.com/didi955/RcbProxy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=RcbProxy" />
-</a>
-
 <a href="https://github.com/didi955/RcbAPI">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=RcbAPI" />
 </a>
