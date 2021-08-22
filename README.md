@@ -19,6 +19,10 @@ was my own Minecraft network.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=Aletheia" />
 </a>
 
+<a href="https://github.com/didi955/PlexNotifier">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
+</a>
+
 #### Only Public Repositories !
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
