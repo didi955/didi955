@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am **Dylan**, im a autodidact developer. I work for **Rushcubeland** which 
-is my own Minecraft network.
+is my own Network of Minecraft servers and services.
 
 🔭 I’m currently working for Rushcubeland
 
