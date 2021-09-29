@@ -23,7 +23,7 @@ is my own Network of Minecraft servers and services.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
 </a>
 
-<a href="https://github.com/Rushcubeland/DAC">
+<a href="https://github.com/didi955/DAC">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
 </a>
 
