@@ -8,7 +8,7 @@ is my own Network of Minecraft servers and services.
 ### My Featured Public Repositories
 
 <a href="https://github.com/didi955/RcbHub">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbHub" />
 </a>
 
 <a href="https://github.com/didi955/Aletheia">
@@ -16,11 +16,11 @@ is my own Network of Minecraft servers and services.
 </a>
 
 <a href="https://github.com/didi955/DAC">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
 </a>
 
 <a href="https://github.com/didi955/PlexNotifier">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
 </a>
 
 
