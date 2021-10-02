@@ -12,7 +12,7 @@ is my own Network of Minecraft servers and services.
 </a>
 
 <a href="https://github.com/didi955/Aletheia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=Aletheia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=Aletheia" />
 </a>
 
 <a href="https://github.com/didi955/DAC">
