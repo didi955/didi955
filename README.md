@@ -23,11 +23,6 @@ is my own Network of Minecraft servers and services.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
 </a>
 
-
-<a href="https://github.com/didi955/Morpion">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=Morpion" />
-</a>
-
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/didi955)
