@@ -15,13 +15,14 @@ is my own Network of Minecraft servers and services.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=Aletheia" />
 </a>
 
+<a href="https://github.com/didi955/DAC">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
+</a>
+
 <a href="https://github.com/didi955/PlexNotifier">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
 </a>
 
-<a href="https://github.com/didi955/DAC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
-</a>
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
