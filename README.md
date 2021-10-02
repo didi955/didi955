@@ -16,11 +16,11 @@ is my own Network of Minecraft servers and services.
 </a>
 
 <a href="https://github.com/didi955/DAC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
 </a>
 
 <a href="https://github.com/didi955/PlexNotifier">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=didi955&repo=PlexNotifier" />
 </a>
 
 
