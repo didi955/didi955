@@ -7,8 +7,8 @@ is my own Network of Minecraft servers and services.
 
 ### My Featured Public Repositories
 
-<a href="https://github.com/didi955/RcbAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbAPI" />
+<a href="https://github.com/didi955/RcbCore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbCore" />
 </a>
 
 <a href="https://github.com/didi955/RcbHub">
