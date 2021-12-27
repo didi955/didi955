@@ -7,19 +7,19 @@ is my own Network of Minecraft servers and services.
 
 ### My Featured Public Repositories
 
-<a href="https://github.com/didi955/RcbCore">
+<a href="https://github.com/Rushcubeland/RcbCore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbCore" />
 </a>
 
-<a href="https://github.com/didi955/RcbHub">
+<a href="https://github.com/Rushcubeland/RcbHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbHub" />
 </a>
 
-<a href="https://github.com/didi955/Aletheia">
+<a href="https://github.com/Rushcubeland/Aletheia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=Aletheia" />
 </a>
 
-<a href="https://github.com/didi955/DAC">
+<a href="https://github.com/Rushcubeland/DAC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=DAC" />
 </a>
 
