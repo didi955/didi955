@@ -7,10 +7,10 @@ is my own Network of Minecraft servers and services.
 
 ### My Featured Public Repositories
 
-<div>
-  <t2>RcbCore</t2>
-  <t3>[PRIVATE] Module représentant la couche abstraite des serveurs</t3>
- </div>
+<a href="https://github.com/Rushcubeland/RcbCore">
+  <p>[PRIVATE] Module représentant toute la couche abstraite des serveurs.</P>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbCore" />
+</a>
 
 <a href="https://github.com/Rushcubeland/RcbHub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rushcubeland&repo=RcbHub" />
