@@ -37,5 +37,5 @@ is my own Network of Minecraft servers and services.
   <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="13%"/>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/12jzxvm/467px-Redis-Logo-svg-removebg-preview.png" alt="467px-Redis-Logo-svg-removebg-preview" border="0" /></a>
   <img align="left" src="https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo_blue-transparent-300x75.png.webp" width="27%" height="150%"/>
-  <img align="left" src="https://pngset.com/images/javascript-background-svg-text-number-symbol-logo-transparent-png-1495834.png"/>
+  <img align="left" src="https://logos-marques.com/wp-content/uploads/2021/03/JavaScript-Logo.png"/>
  
