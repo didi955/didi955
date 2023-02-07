@@ -42,4 +42,5 @@ is my own Network of Minecraft servers and services.
   <img align="left" alt="html" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" alt="css" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="bash" width="100px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
  
