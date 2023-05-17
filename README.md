@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am **Dylan**, im a autodidact developer. I work for **Rushcubeland** which 
-is my own Network of Minecraft servers and services.
+is my own Network of Minecraft servers and services since 2018.
 
 
 **IT Student at Sorbonne Paris Nord University in the Institute of Technology**
