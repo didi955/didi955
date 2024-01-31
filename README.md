@@ -8,8 +8,6 @@ I am **Dylan**
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didi955)](https://github.com/didi955/didi955)
-
 ## Technologies
 
   <img align="left" alt="java" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
