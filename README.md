@@ -4,7 +4,7 @@ I am **Dylan**
 
 **IT Student at Sorbonne Paris Nord University in the Institute of Technology**
 
-🔭 I’m currently working for ?
+🔭 I’m currently working for eBrigade
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
