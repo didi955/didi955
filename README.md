@@ -25,5 +25,6 @@ Je suis également passionné par l'Armée, l'industrie de Défense Française.
   <img align="left" alt="css" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="left" alt="bash" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="left" alt="laravel" width="100px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
-    <img align="left" alt="vuejs" width="100px" style="padding-right:10px;" src="https://vuejs.org/images/logo.png" />
- 
+  <img align="left" alt="vuejs" width="100px" style="padding-right:10px;" src="https://vuejs.org/images/logo.png" />
+  <img align="left" alt="spring" width="100px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+  <img align="left" alt="vite" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" />
