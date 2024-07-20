@@ -2,13 +2,11 @@
 
 I am **Dylan**
 
-**IT Student at Sorbonne Paris Nord University in the Institute of Technology**
+**IT Student at ESIEE-Paris**
 
-Je prépare actuellement un BUT Informatique dans le développement à l'Université Sorbonne Paris Nord et je suis admis à l'ESIEE-Paris pour la formation ingénieur informatique "design, architecture et développement" en alternance.
+Je prépare actuellement un BUT Informatique l'Université Sorbonne Paris Nord et je suis admis à l'ESIEE-Paris pour la formation ingénieur informatique "design, architecture et développement" en alternance.
 
-Je recherche donc un contrat d'apprentissage de 36 mois en tant qu'apprenti ingénieur dans l’architecture et le développement logiciel.
-
-Laravel/VueJS - PHP/SQL - NodeJS - Java - Python
+Laravel/VueJS - PHP/SQL - Java - Python
 
 Je suis également passionné par l'Armée, l'industrie de Défense Française.
 
