@@ -8,7 +8,6 @@ Je prépare actuellement un BUT Informatique l'Université Sorbonne Paris Nord e
 
 Laravel/VueJS - PHP/SQL - Java - Python
 
-Je suis également passionné par l'Armée, l'industrie de Défense Française.
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
