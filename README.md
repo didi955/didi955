@@ -2,9 +2,9 @@
 
 I am **Dylan**
 
-**IT Student at ESIEE-Paris**
+**Work at Safran Electronics & Defense**
 
-Je prépare actuellement un BUT Informatique l'Université Sorbonne Paris Nord et je suis admis à l'ESIEE-Paris pour la formation ingénieur informatique "design, architecture et développement" en alternance.
+Diplomé du BUT Informatique à l'Université Sorbonne Paris Nord, je suis actuellement apprenti ingénieur chez Safran Electronics & Defense et en formation à l'ESIEE-Paris dans la formation ingénieur informatique "design, architecture et développement".
 
 Laravel/VueJS - PHP/SQL - Java - Python
 
