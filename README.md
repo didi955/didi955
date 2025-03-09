@@ -2,12 +2,6 @@
 
 I am **Dylan**
 
-**Work at Safran Electronics & Defense**
-
-Diplomé du BUT Informatique à l'Université Sorbonne Paris Nord, je suis actuellement apprenti ingénieur chez Safran Electronics & Defense et en formation à l'ESIEE-Paris dans la formation ingénieur informatique "design, architecture et développement".
-
-Laravel/VueJS - PHP/SQL - Java - Python
-
 
 ![<didi955's Stats>](https://github-readme-stats.vercel.app/api?username=didi955&show_icons=true&theme=tokyonight)
 
